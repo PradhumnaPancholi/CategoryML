@@ -1,0 +1,41 @@
+[
+    {
+        "question": "power supply not working",
+        "category": "hardware"
+    },
+
+    {
+        "question": "PhotoShop keeps crashing",
+        "category": "software"
+    },
+
+    {
+        "question": "TypeError: can not setState of undefined",
+        "category": "software"
+    },
+
+    {
+        "question": "Uncaught TypeError: Cannot read property. ",
+        "category": "software"
+    },
+
+    {
+        "question": "TypeError: ‘undefined’ is not an object (evaluating). ",
+        "category": "software"
+    },
+
+    {
+        "question": "TypeError: null is not an object (evaluating). ",
+        "category": "software"
+    },
+
+    {
+        "question": "Uncaught RangeError: Maximum call stack. ",
+        "category": "software"
+    },
+
+    {
+        "question": "ReferenceError: event is not defined.",
+        "category": "software"
+    }
+]
